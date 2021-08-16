@@ -1,0 +1,10 @@
+  {
+    "UserName":"TestingUser0",
+    "EmailAdd":"user456@gmail.com",
+    "ConfirmEmailAddr":"user3456@gmail.com",
+    "PasswordWord":"1234567",
+    "ConfirmPassword":"1234567",
+    "OurCompanyName":"ranorex",
+    "TimeZone":"UTC-4 Atlantic Standard Time",
+    "Company":"Self"
+  }

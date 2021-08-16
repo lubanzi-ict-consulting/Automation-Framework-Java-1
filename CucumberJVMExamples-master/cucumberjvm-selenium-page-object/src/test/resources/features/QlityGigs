@@ -1,0 +1,6 @@
+@tag1
+Feature: User logs into QlityGigs
+  Scenario: Log into QlityGigs
+    Given Open the Chrome and launch the application
+    When I click on join and create a profile
+    And I complete my account setup

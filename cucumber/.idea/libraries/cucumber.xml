@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="cucumber">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/._cucumber-core-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-core-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-core-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-junit-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-reporting-0.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._junit-4.11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-java-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-java-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-junit-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-junit-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._gherkin-2.12.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-core-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._gherkin-12.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-reporting-0.1.14.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-jvm-deps-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-testng-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-junit-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-java-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-testng-5.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/._cucumber-jvm-deps-1.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/cucumber-java-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gherkin-12.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gherkin-2.12.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
